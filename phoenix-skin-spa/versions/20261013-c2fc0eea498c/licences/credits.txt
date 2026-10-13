@@ -1,0 +1,21 @@
+Phoenix Skin Spa — Desert Light website concept, 2026-10-13
+Independent unsolicited concept; not commissioned or endorsed by the business.
+No enquiries, bookings, payments or personal data are sent or stored.
+Business facts: https://phoenixskinspa.com/ and https://phoenixskinspa.com/location/ (checked 2026-10-13).
+No client website code, photos, reviews or medical claims copied.
+
+Layout adapts owner-retained Aurelle-X: Hero.tsx (7/5 composition), Philosophy.tsx (asymmetric image/editorial grid), Treatments.tsx (numbered treatment index), primitives.tsx (Reveal), index.css (editorial typography and rules). Original authorship not established; reuse authorized by owner, no standalone template licence represented.
+
+Photo perspective adapts 3D Card Effect by Manu Arora / Aceternity.
+https://ui.aceternity.com/components/3d-card-effect
+https://ui.aceternity.com/licence
+Personal/commercial end-product use under Aceternity License. No raw registry distribution. Adaptations: ±3 degree clamp, requestAnimationFrame, reduced-motion/pointer/touch guards, reset/cleanup, static fallback, no hover-only content.
+
+Agave: B S (@barbarashaw), https://unsplash.com/photos/close-up-of-a-pale-green-agave-plant-_u7zuSflehE
+Bottle: Content Pixie, https://unsplash.com/photos/white-drop-bottle-on-white-surface-WdJ4WnLxyDs
+Both under Unsplash License https://unsplash.com/license, retrieved 2026-10-13. Resized/cropped and encoded as WebP. Illustrative stock only: not client premises, staff, results or endorsed products.
+
+Fraunces by The Fraunces Project Authors / Undercase Type; Inter by The Inter Project Authors. Google Fonts Latin WOFF2 subsets, SIL OFL 1.1. See fraunces-OFL.txt and inter-OFL.txt.
+React / React DOM: MIT, Meta Platforms, Inc. and affiliates.
+Framer Motion: MIT, Framer B.V. Runtime notices in dependency-licences.txt.
+No shadcn code ultimately copied; native details/dialog controls used. No 21st authenticated code or Unicorn export used.
