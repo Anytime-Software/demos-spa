@@ -1,0 +1,32 @@
+Phoenix Skin Spa: "Desert Glow" website concept, version 2, 13 October 2026
+Independent, unsolicited design concept. Not commissioned or endorsed by Phoenix Skin Spa.
+No enquiries, bookings, payments or personal data are sent or stored. No cookies, analytics or tracking.
+
+BUSINESS FACTS
+https://phoenixskinspa.com/ and https://phoenixskinspa.com/location/ (read 13 October 2026).
+Name, address, directions, phone, email, the Rebalance / Rejuvenate / Restore series, the 30-minute spa
+appointment format and the treatment menu names are paraphrased from those pages. No prices, reviews,
+ratings, credentials, opening hours or outcome claims were added. No website code or photos were copied.
+
+PHOTOGRAPHY (illustrative stock only: not the spa's premises, staff, patients, products or results)
+All from StockSnap.io, CC0 1.0 public domain dedication (https://stocksnap.io/license), via Openverse.
+- cream-face, cream-jar: "Woman Skin" (StockSnap 0CAUJR8SRJ, VEP8AYJMNI), Authentic Stock
+- serum-portrait, dropper-portrait, dropper-closeup, dropper-raised: "Beauty Skincare"
+  (StockSnap 0Q23V7QFR8, K1I6IIHM5M, LRSAT4NCLS, U5MEPX1OVV), Authentic Stock
+- agave: "Aloe Plant" (StockSnap NKQWPR6KVP), Matt Bango
+- succulent: "Succulent Plant" (StockSnap NOKA4L8LAV), Free Nature Stock
+- dunes: "Desert Dubai" (StockSnap RQKIPWXZCF), Walid Ahmad (not Arizona; used as mood only)
+Resized and encoded as WebP.
+
+TYPE
+Bodoni Moda (Indestructible Type, Owen Earl) and Manrope (Mikhail Sharanda), SIL Open Font License 1.1,
+self-hosted through Fontsource.
+
+CODE AND EFFECTS
+React and React DOM (MIT, Meta Platforms), three.js (MIT, three.js authors), Framer Motion (MIT, Framer B.V.),
+Lenis smooth scroll (MIT, darkroom.engineering), Vite (MIT). Simplex noise GLSL by Ashima Arts / Stefan
+Gustavson (MIT).
+Hero 3D glass drop, desert-light shader and dust were written for this concept. Interaction patterns (masked
+text reveal, scroll-linked words, 3D tilt card with glare, sticky stacking cards, horizontal scroll gallery,
+magnetic button) follow patterns popularised by Aceternity UI and 21st.dev; the code here is written fresh.
+Layout direction continues the retained Aurelle-X editorial base (dark cinematic hero, large serif type).
